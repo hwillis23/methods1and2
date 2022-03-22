@@ -1,0 +1,14 @@
+C:\Users\hwillis4\Desktop\repo\methods example 1\methods example 1\methods example 1\obj\Debug\netcoreapp3.1\methods example 1.csproj.AssemblyReference.cache
+C:\Users\hwillis4\Desktop\repo\methods example 1\methods example 1\methods example 1\obj\Debug\netcoreapp3.1\methods example 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwillis4\Desktop\repo\methods example 1\methods example 1\methods example 1\obj\Debug\netcoreapp3.1\methods example 1.AssemblyInfoInputs.cache
+C:\Users\hwillis4\Desktop\repo\methods example 1\methods example 1\methods example 1\obj\Debug\netcoreapp3.1\methods example 1.AssemblyInfo.cs
+C:\Users\hwillis4\Desktop\repo\methods example 1\methods example 1\methods example 1\obj\Debug\netcoreapp3.1\methods example 1.csproj.CoreCompileInputs.cache
+C:\Users\hwillis4\Desktop\repo\methods example 1\methods example 1\methods example 1\bin\Debug\netcoreapp3.1\methods example 1.exe
+C:\Users\hwillis4\Desktop\repo\methods example 1\methods example 1\methods example 1\bin\Debug\netcoreapp3.1\methods example 1.deps.json
+C:\Users\hwillis4\Desktop\repo\methods example 1\methods example 1\methods example 1\bin\Debug\netcoreapp3.1\methods example 1.runtimeconfig.json
+C:\Users\hwillis4\Desktop\repo\methods example 1\methods example 1\methods example 1\bin\Debug\netcoreapp3.1\methods example 1.runtimeconfig.dev.json
+C:\Users\hwillis4\Desktop\repo\methods example 1\methods example 1\methods example 1\bin\Debug\netcoreapp3.1\methods example 1.dll
+C:\Users\hwillis4\Desktop\repo\methods example 1\methods example 1\methods example 1\bin\Debug\netcoreapp3.1\methods example 1.pdb
+C:\Users\hwillis4\Desktop\repo\methods example 1\methods example 1\methods example 1\obj\Debug\netcoreapp3.1\methods example 1.dll
+C:\Users\hwillis4\Desktop\repo\methods example 1\methods example 1\methods example 1\obj\Debug\netcoreapp3.1\methods example 1.pdb
+C:\Users\hwillis4\Desktop\repo\methods example 1\methods example 1\methods example 1\obj\Debug\netcoreapp3.1\methods example 1.genruntimeconfig.cache
